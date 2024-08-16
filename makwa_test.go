@@ -6,7 +6,7 @@ import (
 	"math/big"
 	"testing"
 
-	"github.com/codahale/makwa"
+	"github.com/pedroalbanese/makwa"
 )
 
 func TestExtend(t *testing.T) {
